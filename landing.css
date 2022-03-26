@@ -1,0 +1,92 @@
+#more {display: none;}
+        .logo {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            height: 100px;
+            width: 100px;
+            background-attachment: fixed;
+        }
+        .pfp{
+            height: 500px;
+            width: 500px;
+        }
+        .body {
+          
+          background-image: url('FINALBG.jpg');
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+          background-size: cover;
+          
+        }
+        .heading{
+            filter: brightness(150%);
+            text-align: center;
+            padding-top: 6em;
+            text-shadow: 2px 2px rgba(216, 216, 216, 0.735);
+            color: rgb(247, 247, 247);
+            font-family: "Copperplate", fantasy;
+            font-size: 600%;
+        }
+        .sub-heading{
+            filter: brightness(150%);
+            text-align: center;
+            font-family: "Copperplate", fantasy;
+            font-size: 50px;
+            color: rgb(255, 255, 255);
+            text-shadow: 2px 2px rgba(216, 216, 216, 0.735);
+            text-shadow: 1px;
+        }
+        .basic-info{
+            filter: brightness(150%);
+            text-align: center;
+            font-family: "	TCourier New", monospace;
+            font-size: 30px;
+            color: rgb(255, 255, 255);
+            text-shadow: 1px;
+        }
+        .song-box{
+            background-color:#29023f;
+            filter: brightness(150%);
+            text-align: center;
+            font-family: "	TCourier New", monospace;
+            font-size: 20px;
+            margin: 0px;
+            opacity: .9;
+            color: rgb(255, 255, 255);
+            background-size: cover;
+        }
+        .beats-box-heading{
+            color: rgb(255, 255, 255);
+            text-align: center;
+            font-family: "	Papyrus ", fantasy;
+            font-size: 50px;
+        }
+        .beats-box{
+            background-color:#82270097;
+            filter: brightness(150%);
+            text-align: center;
+            font-family: "	TCourier New", monospace;
+            font-size: 20px;
+            margin: 0px;
+            opacity: .8;
+            color: rgb(255, 255, 255);
+            background-size: cover;
+        }
+        .info-box{
+            background-color:#00000097;
+            filter: brightness(150%);
+            text-align: center;
+            font-family: "	TCourier New", monospace;
+            font-size: 20px;
+            margin: 0px;
+            opacity: .8;
+            color: rgb(255, 255, 255);
+            background-size: cover;
+        }
+        .info-box-heading{
+            color: rgb(255, 255, 255);
+            text-align: center;
+            font-family: "	TCourier New", monospace;
+            font-size: 80px;
+        }
