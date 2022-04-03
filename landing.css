@@ -1,0 +1,131 @@
+#more {display: none;}
+        .logo {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            height: 100px;
+            width: 100px;
+            background-attachment: fixed;
+        }
+        .art{
+            height: 250px;
+            width: 250px;
+        }
+        .pfp{
+            height: 500px;
+            width: 500px;
+            filter: brightness(80%);
+        }
+
+        body{
+            background-color: #28262C;
+        }
+        .intro{
+            background-image: url('./Images/Music\ Studio.jpeg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 100% 100%;
+
+        }
+
+        .heading{
+            text-align: center;
+            padding-top: 6em;
+            text-shadow: 2px 2px rgba(216, 216, 216, 0.735);
+            color: rgb(247, 247, 247);
+            font-family: "Copperplate", fantasy;
+            font-size: 600%;
+        }
+        .sub-heading{
+            text-align: center;
+            font-family: "Copperplate", fantasy;
+            font-size: 50px;
+            color: rgb(255, 255, 255);
+            text-shadow: 2px 2px rgba(216, 216, 216, 0.735);
+            text-shadow: 1px;
+        }
+        .basic-info{
+            text-align: center;
+            line-height: 200%;
+            font-family: "	TCourier New", monospace;
+            font-size: 30px;
+            color: rgb(255, 255, 255);
+            text-shadow: 1px;
+        }
+        .song-box{
+            opacity: .8;
+            padding:10px;
+            line-height: 200%;
+            background: #998fc784;
+            color:#2F242C;
+            text-align: center;
+            font-family: "	TCourier New", monospace;
+            font-size: 25px;
+        }
+        .beats-box-heading{
+            padding:10px;
+            color: rgba(255, 253, 253, 0.892);
+            text-align: center;
+            font-family: "	TCourier New", monospace;
+            font-size: 50px;
+        }
+        .beats-box{
+            background-color:#615d5d97;
+            text-align: center;
+            font-family: "	TCourier New", monospace;
+            font-size: 20px;
+            margin: 0px;
+            opacity: .8;
+            color: rgb(255, 255, 255);
+            background-size: cover;
+        }
+        .art-box{
+            background-color:#615d5d97;
+            text-align: center;
+            font-family: "	TCourier New", monospace;
+            font-size: 20px;
+            margin: 0px;
+            color: rgb(255, 255, 255);
+            background-size: cover;
+        }
+        .art-box-heading{
+            color: rgba(255, 253, 253, 0.892);
+            text-align: center;
+            font-family: "	TCourier New", monospace;
+            font-size: 50px;
+        }
+        .art:hover{
+            cursor: pointer;
+            padding:30px;
+        }
+        .info-box{
+            background-color:#998fc784;
+            text-align: center;
+            font-family: "	TCourier New", monospace;
+            font-size: 20px;
+            margin: 0px;
+            padding:5px;
+            color: #2F242C;
+            background-size: cover;
+            opacity: .8;
+        }
+        .info-box-heading{
+            color: #2F242C;
+            text-align: center;
+            font-family: "	TCourier New", monospace;
+            font-size: 50px;
+        }
+
+        .know-more{
+            border-radius: 30%;
+            padding:10px;
+            color: white;
+            font-family: "	TCourier New", monospace;
+            background-color:#2F242C;
+            font-size:20px
+        }
+
+        .know-more:hover{
+            cursor: pointer;
+            padding:25px;
+        }
